@@ -43,14 +43,14 @@ const Services = () => {
       url: "https://github.com/arthurDz/ToDoTracker",
       tech: ["rn", "reanimated", "firebase"],
     },
-    {
-      name: "Hackathon 2020",
-      image: "/static/projects/eventReg.jpg",
-      blurImage: "/projects/blur/eventReg-blur.jpg",
-      description: "Event registration system",
-      url: "https://eventregistration-stackhack.firebaseapp.com/",
-      tech: ["react", "material-ui", "firebase", "spring"],
-    },
+    // {
+    //   name: "Hackathon 2020",
+    //   image: "/static/projects/eventReg.jpg",
+    //   blurImage: "/projects/blur/eventReg-blur.jpg",
+    //   description: "Event registration system",
+    //   url: "https://eventregistration-stackhack.firebaseapp.com/",
+    //   tech: ["react", "material-ui", "firebase", "spring"],
+    // },
     {
       name: "React Native + S3",
       image: "/static/projects/rn_aws.png",

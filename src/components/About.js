@@ -17,19 +17,19 @@ const About = () => {
         </li>
         <li>
           Successfully delivered 10+ business-oriented in-house modules (React Native), taking ownership of their technical
-          administration and guiding them from inception to completion.
+          administration and guiding them from developing to deployment on appstore and playstore.
         </li>
         <li>
           Played a pivotal role as a Senior Mobile developer to convert old MVC architecture into Enhanced MVC architecture by restructuring 60% part of code.
         </li>
         <li>
-          Gained proficiency in NodeJS for managing backend API requirements for both government and private businesses.
-        </li>
-        <li>
-          Supervised and mentored multiple interns.
+          Supervised and lead multiple junior developers.
         </li>
       </ul>`
     },
+    // <li>
+    //   Gained proficiency in NodeJS for managing backend API requirements for both government and private businesses.
+    // </li>
     {
       yearSpan: "Dec 2020 - Jan 2022",
       timeDuration: "1 year",
@@ -66,11 +66,12 @@ const About = () => {
         <li>
           Anime Tracker app based on Anilist using graphQL APIs provided by AniList <a href="https://github.com/arthurDz/AniChan/tree/dev_shaz" target="_blank" rel="noreferrer">Link</a>
         </li>
-        <li>
-          Participated in the Hackerearth StackHack hackathon and built an event registration page with ReactJS and Material UI.
-          <a href="https://eventregistration-stackhack.firebaseapp.com" target="_blank" rel="noreferrer">Link</a>
-        </li>
       </ul>`
+      
+    //   <li>
+    //   Participated in the Hackerearth StackHack hackathon and built an event registration page with ReactJS and Material UI.
+    //   <a href="https://eventregistration-stackhack.firebaseapp.com" target="_blank" rel="noreferrer">Link</a>
+    // </li>
     },
   ]
   const skills = [
